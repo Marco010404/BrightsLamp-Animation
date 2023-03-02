@@ -1,2 +1,1 @@
-# BrightsLamp-Animation
-Brights Lamp Animation using CSS
+A simple Brights Lamp Animation using CSS and HTML
